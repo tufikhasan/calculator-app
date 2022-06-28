@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# Preview
+![tufikhasan-github-io-calculator-app-2022-06-28-06_16_11](https://user-images.githubusercontent.com/52672268/176060647-9cda9a66-78ba-4391-a888-24172b329178.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
